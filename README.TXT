@@ -1,5 +1,6 @@
 Project: zuul-bad
-Authors: Michael Kölling and David J. Barnes
+Authors: Michael Kolling and David J. Barnes
+Refactoed by: Nihinlolamiwa Fajemilehin
 
 This project is part of the material for the book
 
